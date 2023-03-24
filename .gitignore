@@ -33,3 +33,6 @@
 
 # Folders
 obj/
+
+# FileTypes
+*.pdf
